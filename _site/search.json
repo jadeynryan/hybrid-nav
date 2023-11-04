@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "modules/module-1/module-1-2.html",
+    "href": "modules/module-1/module-1-2.html",
+    "title": "Module 1-2",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules/module-2/module-2-3.html",
+    "href": "modules/module-2/module-2-3.html",
+    "title": "Module 2-3",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules/module-2/module-2-1.html",
+    "href": "modules/module-2/module-2-1.html",
+    "title": "Module 2-1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hybrid-nav",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules/module-2/module-2-2.html",
+    "href": "modules/module-2/module-2-2.html",
+    "title": "Module 2-2",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules/module-1/module-1-1.html",
+    "href": "modules/module-1/module-1-1.html",
+    "title": "Module 1-1",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

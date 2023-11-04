@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: Hybrid Navigation Demo
+  navbar:
+    background: "#333"
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - sidebar:modules
+
+  sidebar:
+    - id: modules
+      title: "Modules"
+      style: "docked"
+      background: light
+      collapse-level: 1
+      contents:
+        - section: "Module 1"
+          contents:
+            - auto: "modules/module-1/*"
+        - section: "Module 2"
+          contents:
+            - auto: "modules/module-2/*"
+
+format:
+  html:
+    theme: yeti
