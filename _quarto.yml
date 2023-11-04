@@ -30,3 +30,6 @@ website:
 format:
   html:
     theme: yeti
+    toc: true
+    toc-location: right
+    toc-depth: 4
