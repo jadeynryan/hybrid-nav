@@ -5,7 +5,6 @@ website:
   title: Hybrid Navigation Demo
   navbar:
     background: "#333"
-    search: true
     left:
       - text: "Home"
         file: index.qmd
